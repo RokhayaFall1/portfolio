@@ -3,7 +3,7 @@ st.set_page_config(page_title="CV Rokhaya Fall", layout="wide")
 st.title("Rokhaya Fall, étudiante en géomatique")
 with st.sidebar:
     #1.information personnelles
-    st.image("image.jpg")
+    
     st.title("Rokhaya FALL")
     st.markdown("Adresse: Keur Mbaye Fall, Dakar")
     st.markdown("Email: fallrokhaya146@gmail.com")
