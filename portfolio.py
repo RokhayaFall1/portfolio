@@ -1,9 +1,10 @@
 import streamlit as st
 st.set_page_config(page_title="CV Rokhaya Fall", layout="wide")
-st.title("Rokhaya Fall, étudiante en géomatique")
+st.title("Rokhaya Fall")
+st.header("Géomaticienne")
 with st.sidebar:
     #1.information personnelles
-    
+    st.image("img.jpg")
     st.title("Rokhaya FALL")
     st.markdown("Adresse: Keur Mbaye Fall, Dakar")
     st.markdown("Email: fallrokhaya146@gmail.com")
